@@ -421,7 +421,10 @@ Serão preparados: (i) guia de instruções para participantes (objetivo da ativ
 
 ### 11.3 Procedimento experimental (protocolo – visão passo a passo)
 
-O protocolo seguirá, em linhas gerais, as etapas: (i) preparação prévia (infraestrutura, projeto base, API, especificação OpenAPI, OpenAPI Generator e instrumentos de coleta), (ii) abertura da sessão (apresentação do experimento, reforço de voluntariedade, questionário de perfil), (iii) alocação dos participantes a T1 e T2, (iv) apresentação da tarefa e distribuição dos materiais de cada tratamento, (v) implementação do cliente, com registro de tempos e apoio apenas em dúvidas de infraestrutura, (vi) execução da suíte de testes e preenchimento do checklist de erros de contrato, (vii) aplicação do questionário pós-tarefa e (viii) consolidação inicial dos dados em planilha.
+O protocolo experimental será executado seguindo oito etapas sequenciais, conforme ilustrado na Figura 1: (1) **Preparação** – configuração prévia da infraestrutura, projeto base, API, especificação OpenAPI, OpenAPI Generator e instrumentos de coleta; (2) **Abertura** – apresentação do experimento, reforço da voluntariedade e aplicação do questionário de perfil; (3) **Alocação** – distribuição dos participantes entre os tratamentos T1 (Documentação Textual) e T2 (OpenAPI + OpenAPI Generator); (4) **Tarefa** – apresentação das instruções e entrega dos materiais específicos de cada tratamento; (5) **Implementação** – desenvolvimento do cliente REST pelos participantes, com registro de tempos e apoio restrito a dúvidas de infraestrutura; (6) **Testes** – execução da suíte de testes automatizada e preenchimento do checklist de erros de contrato; (7) **Pós-tarefa** – aplicação do questionário final de percepções; e (8) **Consolidação** – organização inicial dos dados coletados em planilha unificada.
+
+![Fluxograma do procedimento experimental](./METODOLOGIA.png)
+**Figura 1.** Fluxograma das oito etapas do procedimento experimental, desde a preparação da infraestrutura até a consolidação dos dados coletados.
 
 ### 11.4 Plano de piloto (se haverá piloto, escopo e critérios de ajuste)
 
