@@ -449,7 +449,8 @@ Comentários abertos eventualmente coletados em campos dos questionários serão
 
 ---
 
-> [!NOTE] > **Vídeo explicativo disponível:** Esta seção conta com um vídeo complementar que apresenta uma explicação detalhada sobre a avaliação de validade deste experimento, incluindo discussão das principais ameaças e estratégias de mitigação. [Assista ao vídeo aqui](./VÍDEO.mp4).
+> [!NOTE]
+> **Vídeo explicativo disponível:** Esta seção conta com um vídeo complementar que apresenta uma explicação detalhada sobre a avaliação de validade deste experimento, incluindo discussão das principais ameaças e estratégias de mitigação. [Assista ao vídeo aqui](./VÍDEO.mp4).
 
 ## 13. Avaliação de validade (ameaças e mitigação)
 
