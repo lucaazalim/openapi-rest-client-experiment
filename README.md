@@ -113,6 +113,8 @@ Esta seção delimita o que será coberto pelo experimento, o contexto de realiz
 
 ### 4.1 Escopo funcional / de processo (incluído e excluído)
 
+Analisar **a implementação de clientes REST para APIs REST** com o propósito de **avaliar o impacto do uso de especificações OpenAPI combinadas com geração automática de código cliente** com respeito ao seu **tempo de implementação, número de defeitos de integração, erros de contrato de API e percepção de esforço, clareza e confiança** do ponto de vista de **desenvolvedores em formação (estudantes de Engenharia de Software)** no contexto de **atividades práticas em laboratório acadêmico utilizando a API Swagger Petstore**.
+
 Incluído no escopo:
 
 - Implementação de clientes REST em JavaScript para a API Swagger Petstore, utilizando a especificação OpenAPI disponibilizada em `https://petstore3.swagger.io/api/v3/openapi.json`, com operações CRUD sobre recursos de exemplo da Petstore.
@@ -452,8 +454,7 @@ Comentários abertos eventualmente coletados em campos dos questionários serão
 
 ---
 
-> [!NOTE]
-> **Vídeo explicativo disponível:** Esta seção conta com um vídeo complementar que apresenta uma explicação detalhada sobre a avaliação de validade deste experimento, incluindo discussão das principais ameaças e estratégias de mitigação. [Assista ao vídeo aqui](./VÍDEO.mp4).
+> [!NOTE] > **Vídeo explicativo disponível:** Esta seção conta com um vídeo complementar que apresenta uma explicação detalhada sobre a avaliação de validade deste experimento, incluindo discussão das principais ameaças e estratégias de mitigação. [Assista ao vídeo aqui](./VÍDEO.mp4).
 
 ## 13. Avaliação de validade (ameaças e mitigação)
 
